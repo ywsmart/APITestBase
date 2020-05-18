@@ -16,7 +16,6 @@
     - 类→对应子模块、功能的Test
     - 方法→测试用例
 
-
 ## 技术栈
 - RestAssured
 - Junit5

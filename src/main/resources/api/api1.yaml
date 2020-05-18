@@ -1,0 +1,4 @@
+method: post
+url:
+query:
+  config1:
